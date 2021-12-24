@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/graph-maker-react/static/js/main.8cbfedc0.js",
+    "static/js/787.3ca84837.chunk.js": "/graph-maker-react/static/js/787.3ca84837.chunk.js",
+    "index.html": "/graph-maker-react/index.html",
+    "main.8cbfedc0.js.map": "/graph-maker-react/static/js/main.8cbfedc0.js.map",
+    "787.3ca84837.chunk.js.map": "/graph-maker-react/static/js/787.3ca84837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8cbfedc0.js"
+  ]
+}
